@@ -1,2 +1,4 @@
-# android-projets
-This project contains andriod basic and rough practise projects
+# andriod project
+
+
+This projecttandriod basic and rough practise projects
